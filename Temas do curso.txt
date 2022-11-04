@@ -1,0 +1,17 @@
+## Entendendo o que é Git e sua importância
+
+## Comandos básicos para um bom desempenho no terminal
+
+## Realizando a instalação do GIT
+
+## Tópicos fundamentais para entender o funcionamento do Git
+
+## Objetos internos do Git
+
+## Chave SSH e Token
+
+## Iniciando o Git e criando um commit
+
+## Trabalhando com o GitHub
+
+## Como os conflitos acontecem no GitHub e como resolvê-los
